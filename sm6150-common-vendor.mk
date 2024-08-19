@@ -135,19 +135,14 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
     vendor.qti.hardware.bluetooth_audio@2.1-impl \
-    libMpeg4SwEncoder \
     libOmxAacDec \
     libOmxAlacDec \
-    libOmxAlacDecSw \
     libOmxAmrDec \
     libOmxAmrwbplusDec \
     libOmxApeDec \
-    libOmxApeDecSw \
     libOmxDsdDec \
     libOmxEvrcDec \
     libOmxQcelp13Dec \
-    libOmxSwVdec \
-    libOmxSwVencMpeg4 \
     libOmxVpp \
     libOmxWmaDec \
     libadpcmdec \
@@ -157,7 +152,6 @@ PRODUCT_PACKAGES += \
     libqcodec2 \
     librice \
     libsmwrapper \
-    libswvdec \
     libvppclient \
     libasphere \
     libshoebox \
